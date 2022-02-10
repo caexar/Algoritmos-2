@@ -1,0 +1,11 @@
+herencia
+
+siempre hay 2 clases
+clases padre > subclase o inferior
+*esto se puede llamar especializacion
+
+super clase: empleado(id, nombre, fechaNacimiento, telefono)
+sub clase 1: supervisor(seccion, personal[],zona)
+sub clase 2: gerente(zonas[],supervisores[], ubicacion)
+
+los atrivutos privados de las super clase no desapareceran para las sub clases pero si puedes usar getter y setter de las super clases
