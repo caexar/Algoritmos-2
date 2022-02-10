@@ -1,0 +1,30 @@
+sobrecarga > herencia > sobreescritura
+orden de dependencia
+
+sobrecarga (overloading)
+(nombre).(parametro)
+
+imprimir()
+imprimir(String)
+imprimir(integer)
+imprimir(String, Double)
+
+sobrecarga o repetir el nombre pero cambiando el metodo final 
+sobrecarga.imprimir
+
+(nombre).(parametro)
+si hay 2 metodos con las misma cantidad de parametro y mismo nombre
+*(String) + (integer)
+*(String) ! (String)
+
+para que haiga sobrecarga los metodos deben tener los mismos nombres, si son diferentes no habra sobrecarga
+*no se tiene en cuenta el retorno
+
+la sobrecarga se hace solo en una clase
+*aunq compartan nombre si estan en otra clase no sera sobrecarga
+*mininmo 2 versiones para que haiga sobrecarga
+
+si un metodo no es estatico no aparecera al llamarlo con un metodo 
+*int suma = Metodos."sumar(numero01, numero02)"
+
+ctrol + R = DIOS
