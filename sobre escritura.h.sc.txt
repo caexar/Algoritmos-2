@@ -1,0 +1,26 @@
+
+todo contructor que este en subclase debe llamar un supercontructor de la super cuenta
+cuando vallas a usar herencia o sub clases lo recomendable es utilizar "protegido"
+*protegido-privado-public
+cuando tienes permisos privados nomas podras verlo con getter y setter, a diferencia q protegido
+
+concecuencia de la herencia
+*
+
+sobre escritura
+crear una nueva version de un metodo ya existente
+
+sobre escritura == sobre escritura
+"NO" se pueden sobre escribir un contructor
+
+*- insert / overloadint** / todos las super clase y clases acendentes
+
+*/diferencia entre sobre carga y escritura
+en la sobre carga las firmas son distintas
+en la sobre escrituras no
+
+
+siempre que se aplique herencia esta buscara un metodo superior
+
+
+
