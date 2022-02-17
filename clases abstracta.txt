@@ -1,0 +1,23 @@
+clase abstracta
+
+no se puede crear objetos
+clase abstracta - metodos abtrasctos
+no se puede distansiar
+
+una clase abstracta puede ser herencia de otra abstracta
+*las clases abstracta no estan obligada a sobreescribir los metodos de la superclase abstracta
+pero las clases normales si estab obligadas
+
+
+
+
+
+
+
+
+
+
+
+
+
+-hacer elipse
