@@ -1,0 +1,23 @@
+interfaces
+es una definicion de comportamientode  una clase
+define un conjunto de metodo que tu nesecitas de una clase puntual
+
+*pueden implementarse varias al mismo tiempo
+
+la interface es un conjunto de metodos abstractos
+*puede incluir constantes 
+*con jdk -9 no puede tener atrivutos
+*puede heredar una clase de otra
+*una interface no puede heredar una clase
+*una interface puede heredar otra interface
+*no puede implementar otra interface (los metodos no)
+-los menotodos de una interface siempre son public o abstrac
+
+
+****protected siempre que se valla a usar herencia
+*+ throw para lanzar una alerta
+
++si usas en la clase final
+public final class
+*esta clase no podra heredar
+
